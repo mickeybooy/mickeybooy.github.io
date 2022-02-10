@@ -1,9 +1,17 @@
-<head>
-    <meta charset="UTF-8">
-    <title>Hello!</title>
-</head>
+div.title
+	h1 Animated Cube Slider
+	p CSS Only
+	br
+	p.small best viewed in firefox
 
-<body>
-    <h1>Hello World!</h1>
-    <p>This is a simple paragraph.</p>
-</body>
+div.slider
+	div.container
+		div.slide.x
+		div.slide.y
+		div.slide.z
+
+	div.shadow
+	
+p.credit by 
+	span
+		a(href="http://www.albertohartzet.com" target="_blank") Alberto Hartzet
