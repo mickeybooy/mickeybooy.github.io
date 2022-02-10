@@ -5,6 +5,55 @@
     </head>
 
     <body>
+          <section>
+    <div class="d-flex flex-wrap align-items-center justify-content-center nft-listing">
+      <div class="NFT-box">
+        <div class="nft-inner">
+          <div class="nft-cube">
+            <div class="nft-cube-right" style="background: url(https://yudiz.com/codepen/stack-slider/poster-1.jpg) center center / cover no-repeat;">
+              <div class="right-image-box"></div>
+              <div class="nft-right-overlay"></div>
+            </div>
+            <div class="nft-cube-left" style="background: url(https://yudiz.com/codepen/stack-slider/poster-7.jpg) center center / cover no-repeat;">
+              <div class="left-image-box"></div>
+              <div class="nft-left-overlay"></div>
+            </div>
+          </div>
+        </div>
+        <p class="nft-title">Lights</p>
+      </div>
+      <div class="NFT-box">
+        <div class="nft-inner">
+          <div class="nft-cube">
+            <div class="nft-cube-right" style="background: url(https://yudiz.com/codepen/stack-slider/poster-5.jpg) center center / cover no-repeat;">
+              <div class="right-image-box"></div>
+              <div class="nft-right-overlay"></div>
+            </div>
+            <div class="nft-cube-left" style="background: url(https://yudiz.com/codepen/stack-slider/poster-3.jpg) center center / cover no-repeat;">
+              <div class="left-image-box"></div>
+              <div class="nft-left-overlay"></div>
+            </div>
+          </div>
+        </div>
+        <p class="nft-title">Photo Art</p>
+      </div>
+      <div class="NFT-box">
+        <div class="nft-inner">
+          <div class="nft-cube">
+            <div class="nft-cube-right" style="background: url(https://yudiz.com/codepen/stack-slider/poster-4.jpg) center center / cover no-repeat;">
+              <div class="right-image-box"></div>
+              <div class="nft-right-overlay"></div>
+            </div>
+            <div class="nft-cube-left" style="background: url(https://yudiz.com/codepen/stack-slider/poster-6.jpg) center center / cover no-repeat;">
+              <div class="left-image-box"></div>
+              <div class="nft-left-overlay"></div>
+            </div>
+          </div>
+        </div>
+        <p class="nft-title">Creativity</p>
+      </div>
+    </div>
+  </section>
         <h1>test</h1>
         <p>lecccccccccccccci vedd meg</p>
         <h1>CSS buttons hover effects</h1>
