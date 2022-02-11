@@ -59,7 +59,7 @@
         <h1>CSS buttons hover effects</h1>
 <div class="btn-holder">
   <button class="btn btn-1 hover-filled-slide-down">
-    <span>hover me</span>
+    <span>tutuke petike</span>
   </button>
   <button class="btn btn-1 hover-filled-slide-up">
     <span>hover me</span>
