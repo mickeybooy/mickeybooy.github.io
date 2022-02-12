@@ -3,8 +3,20 @@
 
     <head>
         <link rel="stylesheet" href="styles.css">
-        <script src="main.js" type="text/javascript"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        
         <title>NFT</title>
+        
+        <script>
+            
+            $(".nft-left-overlay").hover(function () {
+  $(this).parents(".nft-cube").toggleClass("left");
+});
+$(".nft-right-overlay").hover(function () {
+  $(this).parents(".nft-cube").toggleClass("right");
+});
+            
+        </script>
     </head>
 
     <body>
