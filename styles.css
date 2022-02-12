@@ -217,9 +217,6 @@ section {
 .nft-cube.right .nft-cube-right {
   transform: rotateY(42deg) translateZ(95px);
 }
-.nft-cube.right .nft-cube-right {
-  border: 2px solid #32cd32;
-}
 .nft-cube.right .nft-cube-right .nft-right-overlay {
   left: 0;
 }
