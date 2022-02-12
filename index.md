@@ -2,6 +2,7 @@
 
     <head>
         <link rel="stylesheet" href="styles.css">
+        <script src="main.js" type="text/javascript"></script>
         <title>NFT</title>
     </head>
 
