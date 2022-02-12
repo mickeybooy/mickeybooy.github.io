@@ -1,3 +1,4 @@
+<!doctype html>
 <html lang="en">
 
     <head>
@@ -58,7 +59,6 @@
   </section>
         <h1>test</h1>
         <p>lecccccccccccccci vedd meg</p>
-        <h1>CSS buttons hover effects</h1>
 
     </body>
 
